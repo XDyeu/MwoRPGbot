@@ -1,0 +1,2 @@
+# MwoRPGbot
+bot
